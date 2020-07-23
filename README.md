@@ -1,2 +1,1 @@
-# cv, dated Sept 2019
-CV
+# CV, dated Sept 2019
